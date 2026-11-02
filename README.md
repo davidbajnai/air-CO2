@@ -6,7 +6,7 @@
 
 ## Reference
 
-Goshmaulik et al. Primary Productivity resolved by interhemispheric measurements of triple oxygen isotopes in atmospheric CO<sub>2</sub>. Under review.
+Ghoshmaulik et al. Primary Productivity resolved by interhemispheric measurements of triple oxygen isotopes in atmospheric CO<sub>2</sub>. Under review.
 
 ## Codes
 
