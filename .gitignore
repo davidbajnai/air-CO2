@@ -1,0 +1,6 @@
+.*
+AGENTS.md
+data/cache
+!.gitignore
+__pycache__/
+*.py[cod]
