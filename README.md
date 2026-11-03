@@ -10,6 +10,11 @@
 > [!IMPORTANT]
 > Ghoshmaulik et al. Primary Productivity Resolved by Interhemispheric Measurements of Triple Oxygen Isotopes in Atmospheric CO<sub>2</sub>. Under review.
 
+>[!NOTE]
+>If you use the data or scripts from this repository, please cite the associated Zenodo dataset:
+>
+>Bajnai, D., & Pack, A. (2026). Supplementary material for "Primary productivity resolved by interhemispheric measurements of triple oxygen isotopes in atmospheric CO<sub>2</sub>": Göttingen Data [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23883474
+
 ## Codes
 
 - [scale_goettingen_data.py](codes/scale_goettingen_data.py) scales the Göttingen CO<sub>2</sub> triple oxygen isotope measurements using reference gases and provides results with and without a correction for sample–reference mixing-ratio differences. Input: [goettingen_2023_data_raw.csv](data/input/goettingen_2023_data_raw.csv). Output: [goettingen_2023_data_scaled.csv](data/output/goettingen_2023_data_scaled.csv), [goettingen_2023_data_scaled.xlsx](data/output/goettingen_2023_data_scaled.xlsx), [replicates.png](figures/png/replicates.png), and [replicates_corrected.png](figures/png/replicates_corrected.png).
